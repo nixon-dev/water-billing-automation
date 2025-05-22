@@ -33,11 +33,11 @@ A simple Water Billing System that automates the calculation and delivery of bil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/water-billing-automation.git
+   git clone https://github.com/nixon-dev/water-billing-automation.git
 2. Setup MySQL database
 3. After importing MySQL DB, change credentials in assets/includes/db_conn.php
    ```php
-    $host = 'localhost';
-    $username = 'your_db_username';
-    $password = 'your_db_password';
-    $database = 'your_db_name';
+   $host = 'localhost';
+   $username = 'your_db_username';
+   $password = 'your_db_password';
+   $database = 'your_db_name';
